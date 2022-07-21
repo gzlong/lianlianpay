@@ -14,5 +14,6 @@
     "psr-4": {
       "lianlianpay\\v3sdk\\": "src"
     }
-  }
+  },
+  "license": "MIT"
 }
